@@ -1,0 +1,53 @@
+2026-05-16 22:48:14,486 | [SERVER] Running on 127.0.0.1:5001 ...
+2026-05-16 22:55:30,756 | [SERVER] Connection: ('127.0.0.1', 59276)
+2026-05-16 22:55:30,766 | [AUTH] Failed: areesha
+2026-05-16 22:59:13,607 | [SERVER] Connection: ('127.0.0.1', 59284)
+2026-05-16 22:59:13,609 | [AUTH] Login: admin
+2026-05-16 22:59:13,609 | [ERROR] Extra data: line 1 column 118 (char 117)
+2026-05-16 22:59:13,610 | [CLIENT] 'test.txt' sent by 'admin'. Result: 
+2026-05-16 23:04:35,535 | [SERVER] Running on 127.0.0.1:5001 ...
+2026-05-16 23:05:19,030 | [SERVER] Connection: ('127.0.0.1', 59319)
+2026-05-16 23:05:19,033 | [AUTH] Login: admin
+2026-05-16 23:05:19,035 | [ERROR] Extra data: line 1 column 118 (char 117)
+2026-05-16 23:05:19,036 | [CLIENT] 'test.txt' sent by 'admin'. Result: 
+2026-05-16 23:07:24,496 | [SERVER] Running on 127.0.0.1:5001 ...
+2026-05-16 23:08:05,788 | [SERVER] Connection: ('127.0.0.1', 59337)
+2026-05-16 23:08:05,790 | [AUTH] Login: admin
+2026-05-16 23:08:05,790 | [ERROR] Extra data: line 1 column 118 (char 117)
+2026-05-16 23:08:05,791 | [CLIENT] 'test.txt' sent by 'admin'. Result: 
+2026-05-16 23:08:46,025 | [SERVER] Running on 127.0.0.1:5001 ...
+2026-05-16 23:09:20,861 | [SERVER] Connection: ('127.0.0.1', 59350)
+2026-05-16 23:09:20,863 | [AUTH] Login: admin
+2026-05-16 23:09:20,863 | [ERROR] Extra data: line 1 column 118 (char 117)
+2026-05-16 23:09:20,865 | [CLIENT] 'test.txt' sent by 'admin'. Result: 
+2026-05-16 23:11:49,917 | [SERVER] Running on 127.0.0.1:5001 ...
+2026-05-16 23:12:38,779 | [SERVER] Connection: ('127.0.0.1', 59366)
+2026-05-16 23:12:38,780 | [AUTH] Login: admin
+2026-05-16 23:12:38,781 | [ERROR] Extra data: line 1 column 118 (char 117)
+2026-05-16 23:12:38,782 | [CLIENT] 'test.txt' sent by 'admin'. Result: 
+2026-05-16 23:14:25,780 | [SERVER] Running on 127.0.0.1:5001 ...
+2026-05-16 23:15:00,605 | [SERVER] Running on 127.0.0.1:5001 ...
+2026-05-16 23:15:34,383 | [SERVER] Connection: ('127.0.0.1', 59386)
+2026-05-16 23:15:34,386 | [AUTH] Login: admin
+2026-05-16 23:15:34,388 | [ERROR] Extra data: line 1 column 118 (char 117)
+2026-05-16 23:15:34,389 | [CLIENT] 'test.txt' sent by 'admin'. Result: 
+2026-05-16 23:18:43,154 | [SERVER] Running on 127.0.0.1:5001 ...
+2026-05-16 23:20:08,959 | [SERVER] Connection: ('127.0.0.1', 59420)
+2026-05-16 23:20:08,961 | [AUTH] Login: admin
+2026-05-16 23:20:08,962 | [ERROR] Extra data: line 1 column 118 (char 117)
+2026-05-16 23:20:08,962 | [CLIENT] 'test.txt' sent by 'admin'. Result: 
+2026-05-16 23:21:47,154 | [SERVER] Running on 127.0.0.1:5001 ...
+2026-05-16 23:22:31,984 | [SERVER] Connection: ('127.0.0.1', 59433)
+2026-05-16 23:22:31,985 | [AUTH] Login: admin
+2026-05-16 23:22:31,986 | [ERROR] Extra data: line 1 column 118 (char 117)
+2026-05-16 23:22:31,987 | [CLIENT] 'test.txt' sent by 'admin'. Result: 
+2026-05-16 23:27:36,019 | [SERVER] Running on 127.0.0.1:5001 ...
+2026-05-16 23:28:10,472 | [SERVER] Connection: ('127.0.0.1', 59455)
+2026-05-16 23:28:10,474 | [AUTH] Login: admin
+2026-05-16 23:28:10,491 | [CLIENT] 'test.txt' sent by 'admin'. Result: OK
+2026-05-16 23:28:10,491 | [OK] 'test.txt' from 'admin' - Integrity VERIFIED
+2026-05-16 23:28:53,995 | [SERVER] Running on 127.0.0.1:5001 ...
+2026-05-16 23:29:26,842 | [SERVER] Connection: ('127.0.0.1', 59466)
+2026-05-16 23:29:26,844 | [AUTH] Login: admin
+2026-05-16 23:29:26,858 | [CLIENT] 'test.txt' sent by 'admin'. Result: OK
+2026-05-16 23:29:26,858 | [OK] 'test.txt' from 'admin' - Integrity VERIFIED
